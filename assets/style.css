@@ -3,7 +3,6 @@ div{
   justify-content: center;
   width: 50%;
   background-color: rgb(240,	248,	255, .5);
-  opacity: .5;
   padding: 300px;
   font-size: 50px;
 }
